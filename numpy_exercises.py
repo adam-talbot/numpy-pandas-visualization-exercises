@@ -25,7 +25,7 @@ print(len(c))
 
 a2 = a + 3
 b2 = a2[a2 > 0]
-pirnt(len(b2))
+print(len(b2))
 
 #5. If you squared each number, what would the new mean and standard deviation be?
 
